@@ -1,0 +1,9 @@
+
+
+java:S3008	"URename this field "SEQUENCIAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞËçßúÿÿÿÿ8·´é£ı1J$75c80bdc-6955-435b-8eab-38c96b594011
+|
+java:S5993"9Change the visibility of this constructor to "protected".(ÇŸğã8Â´é£ı1J$2bfae503-d075-41ef-a1b0-4b55a03f2a22
+r	java:S106("+Replace this use of System.out by a logger.(ü¸×Êúÿÿÿÿ8ŞÎ¥¤ı1J$215860fe-41db-4449-8e30-5e89f8b43ced
+r	java:S106)"+Replace this use of System.out by a logger.(ç°»©úÿÿÿÿ8ßÎ¥¤ı1J$52f9cad1-6de4-4c72-8951-f255667f7b22
+m	java:S106*"+Replace this use of System.out by a logger.(‘¥ÿù8àÎ¥¤ı1J$75c555b9-5197-4358-acb2-c09baf9a1f28
+m	java:S106+"+Replace this use of System.out by a logger.(¨‡Ì8şê¤ı1J$9f6ae245-83ca-4a46-85f0-6c8e5a56840d
